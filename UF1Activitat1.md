@@ -78,11 +78,9 @@ Java serveix per a fer:
       
       
       ```
-
-    public class HolaMon {
+      public class holaMundo {
 
         public static void main(String[] args) {
-        System.out.println("Hola mòn!")
-          }
+            System.out.println("Hola mòn!");
         }
-      ```
+    }
