@@ -51,7 +51,7 @@ Java serveix per a fer:
  
 ### Avantatges i desavantatges.
 ---
-#### Avantatge
+### Avantatge
 
 **1. Multiplataforma**      
         Java funciona independentment del tipo de plataforma, es a dir, es pot executar en Windows, Linux, Mac, inclús en el telèfon mobil!     
