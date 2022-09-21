@@ -1,4 +1,4 @@
-# Treball entorns
+# Treball d'entorns
 **Java, Python, C#, SQL**
 
 Activitat de recerca de llenguatges de programació      
