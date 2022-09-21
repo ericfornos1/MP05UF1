@@ -23,7 +23,7 @@ provat)
 
 ## Java
 
-Java es el tercer llenguatge de programació més popular del mòn segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C, les aplicacions fetes en Java son compilades a **bytecde**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
+Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C, les aplicacions fetes en Java son compilades a **bytecde**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
 
 <p align="center">
   <img src="java1.svg" />
@@ -33,4 +33,4 @@ La característica més important de Java es el **"OOP"** es a dir, (Programaci�
 
 Una altra característica que fa a Java un llenguatge de programació molt respetable es el seu lema, **"write once, run anywhere"**, amb el significat de que Java es capaç de escriure un programa una vegada i que es pugui executarse desde qualsevol dispositiu, independement del hardware.
 
-Java compila el codi fodi per a generar el codi "bytecode", del que hem parlat abans. Aquest llenguatge "bytecode" son instruccions de màquina simplificades. Aquest codi no es codi font, però tampoc es codi màquina, es un llenguatge que només Java el pot entendre, després, la **màquina virtual (JVM)** s'encarrega de interpretar i executar el codi. 
+Java compila el codi fodi per a generar el codi **"bytecode"**, del que hem parlat abans. Aquest llenguatge **"bytecode"** son instruccions de màquina simplificades. Aquest codi no es codi font, però tampoc es codi màquina, es un llenguatge que només Java el pot entendre, després, la **màquina virtual (JVM)** s'encarrega de interpretar i executar el codi. 
