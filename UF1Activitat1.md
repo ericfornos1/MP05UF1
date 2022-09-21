@@ -135,7 +135,7 @@ La filosofia de Python fa èmfasi en la **llegibilitat del seu codi**, d'aqui to
 </p>
 
 
-El codi que segueixi els principis de **Python** es diu que és ==“pytònic”==. Aquests principis van ser descrits pel desenvolupador de Python **Tim Peters** a El Zen de Python
+El codi que segueixi els principis de **Python** es diu que és “pytònic”. Aquests principis van ser descrits pel desenvolupador de Python **Tim Peters** a El Zen de Python
 
 ![prova](https://user-images.githubusercontent.com/113585897/191541778-b898a45e-2263-4029-90ca-10d7067d88cd.PNG)
 
