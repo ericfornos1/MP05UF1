@@ -141,6 +141,8 @@ El codi que segueixi els principis de **Python** es diu que és “pytònic”. 
 
 
 
+## Característiques de Python.
+---
 
 
 
