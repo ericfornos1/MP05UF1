@@ -50,8 +50,8 @@ Java serveix per a fer:
   4. Aplicacions web
  
 ### Avantatges i desavantatges.
-
-*Avantatges*
+---
+#### Avantatges ####
 
   **1. Multiplataforma**      
     Java funciona independentment del tipo de plataforma, es a dir, es pot executar en Windows, Linux, Mac, inclús en el telèfon mobil!            
@@ -63,7 +63,7 @@ Java serveix per a fer:
     Los llenguatges de baix sòn més dificils d'entendre, els de alt nivell tenen moltes paraules de l'anglès, lo qual el fa més fàcil d'apendre i de llegir.      
     
     
-*Desavantatges*    
+#### Desavantatges ####    
     **1. Baix rendiment.**          
     Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.          
     **2. Sense instal·lació de còpia de seguretat:**          
