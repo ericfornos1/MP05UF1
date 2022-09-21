@@ -76,7 +76,8 @@ Java serveix per a fer:
       Alhora de desenvoluipar GUI's, Java es queda enrere, degut a que no es poden fer interfícies molt complexes. 
       Els llenguatges moderns com **Python, R, o C#** tenen la posibilitat de crear interfícies mes complexes que Java.      
       
-      
+  ## Exemple de codi.
+   **Input:**
     
       public class holaMundo {
 
@@ -84,3 +85,5 @@ Java serveix per a fer:
             System.out.println("Hola mòn!");
         }
     }
+  **Output:**
+  *Hola mòn!*
