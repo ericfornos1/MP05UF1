@@ -125,7 +125,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 # Python
 ## Què és Python?
 
-Python es el**llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE** és un llenguatge d'alt nivell de programació interpretat. La filosofia del qual fa èmfasi en la llegibilitat del seu codi, d'aqui tota la seva popularitat en els darrers anys. S'utilitza per desenvolupar aplicacions de tot tipus.
+Python es el**llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE** és un llenguatge d'alt nivell de programació interpretat. La filosofia del qual fa èmfasi en la **llegibilitat del seu codi**, d'aqui tota la seva popularitat en els darrers anys. S'utilitza per desenvolupar aplicacions de tot tipus.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113585897/191532394-1909c176-e531-40e0-b725-966b71d31d2c.png" />
