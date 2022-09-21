@@ -31,7 +31,7 @@ Les aplicacions fetes en Java son compilades a **bytecde**, que pot ser executad
   <img src="java1.svg" />
 </p>
 
-La característica més important de Java es el **"OOP"** es a dir, (Programació Orientada a Objectes). Els llenguatges de programació que tenen aquesta característica comparteixen les entitats **"objectes"**, es a dir, datos i codi que es combinen entre ells per formar objectes.
+La característica més important de Java es el **"OOP"** es a dir, (Programació Orientada a Objectes). Els llenguatges de programació que tenen aquesta característica tenen en comú que utilitzen les entitats **"objectes"**, es a dir, datos i codi que es combinen entre ells per formar objectes.
 
 Una altra característica que fa a Java un llenguatge de programació molt respetable es el seu lema, **"write once, run anywhere"**, amb el significat de que Java es capaç de escriure un programa una vegada i que es pugui executarse desde qualsevol dispositiu, independement del hardware.
 
