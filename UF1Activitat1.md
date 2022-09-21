@@ -77,7 +77,7 @@ Java serveix per a fer:
       Els llenguatges moderns com **Python, R, o C#** tenen la posibilitat de crear interfícies mes complexes que Java.      
       
   ## Exemple de codi.
-   **Input:**
+  
     
       public class holaMundo {
 
@@ -90,17 +90,20 @@ Java serveix per a fer:
   
   Demanar el nom a l'usuari i mostrar-lo en Java
   ---
+ 
       import java.util.Scanner;
 
       public class HolaUser {
           public static void main(String[] args) {
 
               Scanner ent = new Scanner(System.in);
-              String nombre;
+              String nom;
 
-              nombre = ent.nextLine();
+              nom = ent.nextLine();
 
-              System.out.println("Hola, " + nombre);
+              System.out.println("Hola, " + nom);
 
           }
       }
+  **Input: Eric**
+  **Output:** Hola, Eric
