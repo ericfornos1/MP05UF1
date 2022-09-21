@@ -50,18 +50,21 @@ Java serveix per a fer:
   4. Aplicacions web
  
 ### Avantatges i desavantatges.
+
 *Avantatges*
 
   1. Multiplataforma
     Java funciona independentment del tipo de plataforma, es a dir, es pot executar en Windows, Linux, Mac, inclús en el telèfon mobil!
-  2. Fàcil d'apendre.
+  2. Fàcil d'apendre.           
     La curva d'aprenentatge de Java es curta, i la sintaxis es fàcil d'apendre, ademés, es pareix a C i C++.
-  3. Programació orientada a objectes. 
+  3. Programació orientada a objectes.           
     Els conceptes "OOP" de Java ajuden a resoldre problemes del món real. També ajuda a mantenir el codi gran dividint-los en fragments amb nom més petits.
-  4. Java es d'alt nivell.
+  4. Java es d'alt nivell.          
     Los llenguatges de baix sòn més dificils d'entendre, els de alt nivell tenen moltes paraules de l'anglès, lo qual el fa més fàcil d'apendre i de llegir.
+    
+    
 *Desavantatges*    
-    1. Baix rendiment.
-    Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.
-     2. Sense instal·lació de còpia de seguretat:
-     Java té absolutament zero funcions per fer una còpia de seguretat de les dades dels usuaris. Es centra principalment en l'emmagatzematge de dades, però no          estan protegides amb una instal·lació de còpia de seguretat.
+    1. Baix rendiment.          
+    Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.          
+     2. Sense instal·lació de còpia de seguretat:          
+     Java té absolutament zero funcions per fer una còpia de seguretat de les dades dels usuaris. Es centra principalment en l'emmagatzematge de dades, però no          estan protegides amb una instal·lació de còpia de seguretat.          
