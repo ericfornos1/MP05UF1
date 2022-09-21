@@ -54,13 +54,13 @@ Java serveix per a fer:
 #### Avantatges ####
 
 **1. Multiplataforma**      
-      Java funciona independentment del tipo de plataforma, es a dir, es pot executar en Windows, Linux, Mac, inclús en el telèfon mobil!            
+        Java funciona independentment del tipo de plataforma, es a dir, es pot executar en Windows, Linux, Mac, inclús en el telèfon mobil!            
 **2. Fàcil d'apendre.**                
-      La curva d'aprenentatge de Java es curta, i la sintaxis es fàcil d'apendre, ademés, es pareix a C i C++.     
+       La curva d'aprenentatge de Java es curta, i la sintaxis es fàcil d'apendre, ademés, es pareix a C i C++.     
 **3. Programació orientada a objectes**.                 
-      Els conceptes "OOP" de Java ajuden a resoldre problemes del món real. També ajuda a mantenir el codi gran dividint-los en fragments amb nom més petits.      
+       Els conceptes "OOP" de Java ajuden a resoldre problemes del món real. També ajuda a mantenir el codi gran dividint-los en fragments amb nom més petits.      
 **4. Java es d'alt nivell.**                
-      Los llenguatges de baix sòn més dificils d'entendre, els de alt nivell tenen moltes paraules de l'anglès, lo qual el fa més fàcil d'apendre i de llegir.      
+        Los llenguatges de baix sòn més dificils d'entendre, els de alt nivell tenen moltes paraules de l'anglès, lo qual el fa més fàcil d'apendre i de llegir.      
 
 
 #### Desavantatges ####    
