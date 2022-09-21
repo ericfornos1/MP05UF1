@@ -1,7 +1,7 @@
 # Treball entorns
 **Java, Python, C#, SQL**
 
-• Activitat de recerca de llenguatges de programació      
+Activitat de recerca de llenguatges de programació      
 
 • D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:               
 • Naixement, creadors i evolució històrica.                    
