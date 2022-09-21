@@ -105,7 +105,7 @@ Java serveix per a fer:
           }
       }
   **Input:** Eric   
-  **Output:** Hola, Eric
+  **Output:** *Hola, Eric*
 ## Infojobs i Java.
 
 Hi han **818 ofertas de Java en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **392** per a **C#**.       
