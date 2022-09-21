@@ -1,5 +1,5 @@
 # Treball entorns
-**Java, Python, C#, SQL **
+**Java, Python, C#, SQL**
 
 Activitat de recerca de llenguatges de programació
 
