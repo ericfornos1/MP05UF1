@@ -105,5 +105,5 @@ Java serveix per a fer:
 
           }
       }
-  **Input: Eric**
+  **Input:** Eric   
   **Output:** Hola, Eric
