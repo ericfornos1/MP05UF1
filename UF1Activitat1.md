@@ -77,7 +77,7 @@ Java serveix per a fer:
       Els llenguatges moderns com **Python, R, o C#** tenen la posibilitat de crear interfícies mes complexes que Java.      
       
       
-      ```
+    
       public class holaMundo {
 
         public static void main(String[] args) {
