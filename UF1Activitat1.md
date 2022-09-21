@@ -45,7 +45,7 @@ Un dels IDE mes comuns per a Java sol ser **Eclipse**, o també **IntelIJ IDEA**
 
 Java serveix per a fer:
   **1. Videojocs**
-  **2. Aplicacions móbils per Android
+  **2. Aplicacions móbils per Android**
   **3. Aplicacions de escritori
   **4. Aplicacions web
 
