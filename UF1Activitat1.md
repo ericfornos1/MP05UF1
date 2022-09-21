@@ -67,6 +67,7 @@ Java serveix per a fer:
 
 
 ### Desavantatges
+
     1. Baix rendiment.                   
-         Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.       
+      Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.       
 
