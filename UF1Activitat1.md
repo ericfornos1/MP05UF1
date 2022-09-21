@@ -87,3 +87,20 @@ Java serveix per a fer:
     }
   **Output:**
   *Hola mòn!*
+  
+  Demanar el nom a l'usuari i mostrar-lo en Java
+  ---
+      import java.util.Scanner;
+
+      public class HolaUser {
+          public static void main(String[] args) {
+
+              Scanner ent = new Scanner(System.in);
+              String nombre;
+
+              nombre = ent.nextLine();
+
+              System.out.println("Hola, " + nombre);
+
+          }
+      }
