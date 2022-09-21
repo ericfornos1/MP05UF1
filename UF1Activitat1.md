@@ -4,13 +4,19 @@
 Activitat de recerca de llenguatges de programació
 
 D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
+
 • Naixement, creadors i evolució històrica.
+
 • Característiques del llenguatge.
 
 • Imperatiu, declaratiu, OOP...
+
 • Compilat, interpretat, híbrid...
+
 • Principals novetats o aportacions respecte altres llenguatges.
+
 • Avantatges i inconvenients respecte altres llenguatges.
+
 • Principals entorns on es fa servir el llenguatge.
 
 Activitat de recerca de llenguatges de programació
