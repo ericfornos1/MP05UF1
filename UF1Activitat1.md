@@ -44,7 +44,7 @@ Java compila el codi fodi per a generar el codi **"bytecode"**, del que hem parl
 Un dels IDE mes comuns per a Java sol ser **Eclipse**, o també **IntelIJ IDEA**, i es poden fer una gran varietat de projectes amb Java, degut a la seva gran versatibilitat. 
 
 Java serveix per a fer:
-  **1. Videojocs
+  **1. Videojocs**
   **2. Aplicacions móbils per Android
   **3. Aplicacions de escritori
   **4. Aplicacions web
