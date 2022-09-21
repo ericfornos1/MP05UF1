@@ -22,9 +22,9 @@ provat)
 
 ## Java
 
-![alt text](java1.svg)
-
 Java es el tercer llenguatge de programació més popular del mòn segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C, les aplicacions fetes en Java son compilades a **bytecde**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
+
+![alt text](java1.svg|center)
 
 La característica més important de Java es el **"OOP"** es a dir, (Programació Orientada a Objectes). Els llenguatges de programació que tenen aquesta característica comparteixen les entitats **"objectes"**, es a dir, datos i codi que es combinen entre ells per formar objectes.
 
