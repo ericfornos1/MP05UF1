@@ -107,3 +107,11 @@ Java serveix per a fer:
       }
   **Input:** Eric   
   **Output:** Hola, Eric
+## Infojobs y Java.
+
+Hi han 818 ofertas de Java en tota Espanya. Comparat amb altres, hi ha 588 ofertes per a Python, 242 per a C++, i 392 per a C#.   
+Un salari considerat "baix" per a un Java Developer son 19.900 a l'any.   
+Un salari considerat "mitjà" per a un Java Developer son 31.200 a l'any.   
+Un salari considerat "alt" per a un Java Developer son 75.000 a l'any.   
+Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java     
+  
