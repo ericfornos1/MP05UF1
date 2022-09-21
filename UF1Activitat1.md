@@ -83,6 +83,6 @@ Java serveix per a fer:
 
         public static void main(String[] args) {
         System.out.println("Hola mòn!")
-      }
-   }
+          }
+        }
       ```
