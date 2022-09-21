@@ -66,11 +66,7 @@ Java serveix per a fer:
         Los llenguatges de baix sòn més dificils d'entendre, els de alt nivell tenen moltes paraules de l'anglès, lo qual el fa més fàcil d'apendre i de llegir.      
 
 
-#### Desavantatges ####    
-
+###Desavantatges ###
     1. Baix rendiment.          
-    Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.   
-    
-    2. Sense instal·lació de còpia de seguretat:
-     Java té absolutament zero funcions per fer una còpia de seguretat de les dades dels usuaris. Es centra principalment en l'emmagatzematge de dades, però no          estan protegides amb una instal·lació de còpia de seguretat.          
+    Java consumeix més memòria en comparació amb els llenguatges de programació natius com C i C++. També és més lent en comparació amb ells, això es deu al             treball addicional de l'intèrpret per convertir el codi en llenguatge màquina.       
 
