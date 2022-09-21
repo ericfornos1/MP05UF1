@@ -5,20 +5,14 @@ Activitat de recerca de llenguatges de programació
 
 D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 
-• Naixement, creadors i evolució històrica.
+Naixement, creadors i evolució històrica.
+Característiques del llenguatge.
+Imperatiu, declaratiu, OOP...
+Compilat, interpretat, híbrid...
+Principals novetats o aportacions respecte altres llenguatges.
 
-• Característiques del llenguatge.
-
-• Imperatiu, declaratiu, OOP...
-
-• Compilat, interpretat, híbrid...
-
-• Principals novetats o aportacions respecte altres llenguatges.
-
-• Avantatges i inconvenients respecte altres llenguatges.
-
-• Principals entorns on es fa servir el llenguatge.
-
+ Avantatges i inconvenients respecte altres llenguatges.
+ Principals entorns on es fa servir el llenguatge.
 Activitat de recerca de llenguatges de programació
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
@@ -33,7 +27,6 @@ provat)
 Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C i C++. 
 
 Les aplicacions fetes en Java son compilades a **bytecde**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
-
 <p align="center">
   <img src="java1.svg" />
 </p>
