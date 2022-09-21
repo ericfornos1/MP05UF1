@@ -1,2 +1,2 @@
-*Treball entorns
+Treball entorns
 
