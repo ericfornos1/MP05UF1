@@ -272,3 +272,16 @@ https://www.infojobs.net
 https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes   
 https://en.wikipedia.org/wiki/Object_(computer_science)   
 
+# C#
+## Què és C#?
+---
+
+C# és un llenguatge de programació multiparadigma desenvolupat i estandarditzat per l'empresa Microsoft l'any 2000 com a part de la seva plataforma .NET.  
+C# és un dels llenguatges de programació dissenyats per a la infraestructura de llenguatge comú.
+
+La sintaxi bàsica deriva de C/C++ i utilitza el model d'objectes de la plataforma .NET, similar al de Java, encara que inclou millores derivades d'altres llenguatges.
+
+<p align="center">
+![2p4i](https://user-images.githubusercontent.com/113585897/192094639-b756bc3b-1774-4f3d-b778-602648b148c6.png)
+</p>
+
