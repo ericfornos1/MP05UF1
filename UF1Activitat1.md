@@ -269,12 +269,12 @@ Python es el llenguatge de programació mes popular d'aquest any, i segurament h
 ## Webgrafia  
 ---
 
-https://es.wikipedia.org/wiki/Python
-https://www.glassdoor.es/Sueldos/python-developer-sueldo-SRCH_KO0,16.htm
+https://es.wikipedia.org/wiki/Python  
+https://www.glassdoor.es/Sueldos/python-developer-sueldo-SRCH_KO0,16.htm  
 https://www.infojobs.net      
-https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes   
-https://en.wikipedia.org/wiki/Object_(computer_science)   
-
+https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes     
+https://en.wikipedia.org/wiki/Object_(computer_science)     
+  
 ---
 # C#
 ## Què és C#?
