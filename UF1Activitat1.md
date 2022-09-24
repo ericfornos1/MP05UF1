@@ -245,7 +245,7 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
  nom = input("Com et dius?: ")
   print("Hola", name + "!")
   ```
-   **Input:** Eric   
+  **Input:** Eric   
   **Output:** *Hola, Eric*
 
 
@@ -276,10 +276,9 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 ## Què és C#?
 ---
 
-C# és un llenguatge de programació multiparadigma desenvolupat i estandarditzat per l'empresa Microsoft l'any 2000 com a part de la seva plataforma .NET.  
-C# és un dels llenguatges de programació dissenyats per a la infraestructura de llenguatge comú.
+**C#** és un llenguatge de programació **multiparadigma** desenvolupat i estandarditzat per l'empresa **Microsoft l'any 2000** com a part de la seva plataforma **.NET**. La idea principal de **C#** la va tindre **Anders Hejlsberg**, que, juntament amb el seu equip, van desenvolupar aquest llenguatge de programció.
 
-La sintaxi bàsica deriva de C/C++ i utilitza el model d'objectes de la plataforma .NET, similar al de Java, encara que inclou millores derivades d'altres llenguatges.
+La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plataforma **.NET**, similar al de **Java**, encara que inclou millores derivades d'altres llenguatges.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113585897/192094639-b756bc3b-1774-4f3d-b778-602648b148c6.png") />
