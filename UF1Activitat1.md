@@ -174,3 +174,20 @@ Python serveix per a fer:
 8. Desenvolupament de **videojocs**
 9. Gestió financera
 
+## Avantatges i desavantatges.
+---
+### Avantatge
+
+**1. Biblioteques i Frameworks**
+
+    Com ja he comentat abans, Python, en ser de codi lliure i gratuït, permet que una gran comunitat darrere pugui contribuir al desenvolupament de codi i frameworks que ajuden altres programadors a crear projectes
+
+
+**2. Llenguatge senzill i de gran potencial**
+
+    Molta gent califica Python com un dels llenguatges més facils d'apendre, ja que aquest llenguatge substitueix els famosos **"corxets" { }** per identació amb tabulaciuons. D'aquesta manera Python es un llenguatge molt més llegible per algù que no esta familiaritzat del tot amb la programació.
+
+**3. Multiplataforma**
+
+    Python és un d'aquests llenguatges de programació que es pot executar en qualsevol sistema operatiu en què s'operi. Així és: no importa si es tracta de Windows, Linux, macOS, i d'altres
+
