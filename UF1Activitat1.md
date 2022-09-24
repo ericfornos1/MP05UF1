@@ -120,7 +120,7 @@ Java serveix per a fer:
 Hi han **818 ofertas de Java en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **392** per a **C#**.       
 Un salari considerat **"baix"** per a un **Java Developer son 19.900 a l'any.**     
 Un salari considerat **"mitjà"** per a un **Java Developer son 31.200 a l'any.**      
-Un salari considerat **"alt"** per a un **Java Developer son 75.000 a l'any.**      
+Un salari considerat **"alt"** per a un **Java Developer son +45.000 a l'any.**      
 
 Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java     
 
@@ -247,3 +247,19 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
   ```
    **Input:** Eric   
   **Output:** *Hola, Eric*
+
+
+
+## Infojobs i Python.
+
+Hi han **588 ofertas de Python en tota Espanya**. Comparat amb altres, hi ha **818** ofertes per a **Java**, **242** per a **C++**, i **392** per a **C#**.       
+Un salari considerat **"baix"** per a un **Python Developer son 21.000 a l'any.**     
+Un salari considerat **"mitjà"** per a un **Python Developer son 32.200 a l'any.**      
+Un salari considerat **"alt"** per a un **Python Developer son +49.000 a l'any.**      
+
+Informació extreta de Glassdoor --> https://www.glassdoor.es/Sueldos/python-developer-sueldo-SRCH_KO0,16.htm
+
+## Conclusió:
+---
+
+Python es el llenguatge de programació mes popular d'aquest any, i segurament ho sigui per els propers anys. Python es pot utiltizar en tots els camps de la programació, encara que hi ha diversos casos en els que no es la millor opció, com he dit abans en l'exemple de les aplicacions mòbils. El camp en el que més destaca es IA **(Inteligencia Artificial)** i el **Machine Learning**. El fet de que sigui un dels llenguatges més fàcils d'apendre el fa molt atractiu per a que gent nova començi a programar desde 0. 
