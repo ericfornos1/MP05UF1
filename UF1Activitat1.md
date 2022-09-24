@@ -66,10 +66,10 @@ Java serveix per a fer:
 ### Desavantatges
 
 **1. Baix rendiment**                 
-      Java consumeix més memòria en comparació amb els llenguatges de programació natius com **C i C++**. També és més lent en comparació amb ells, això es deu al             treball adicional de l'**intèrpret** per convertir el codi en llenguatge **màquina**.      
+      Java consumeix més lent en comparació amb els llenguatges de programació natius com **C i C++**, això es deu al treball adicional de l'**intèrpret** per convertir el codi en llenguatge **màquina**.      
       
 **2. Memoria**              
-      L'administració de **memòria** de Java no es molt bona comparada amb altres llenguatges de programació com per exemple **Python, o C++**.    
+      L'administració de **memòria** de Java no es molt bona comparada amb altres llenguatges de programació com per exemple **C++**.    
       
 **3. GUI (Interfície d'usuari)**              
       Alhora de desenvoluipar GUI's, Java es queda enrere, degut a que no es poden fer interfícies molt complexes. 
@@ -113,7 +113,12 @@ Un salari considerat **"baix"** per a un **Java Developer son 19.900 a l'any.**
 Un salari considerat **"mitjà"** per a un **Java Developer son 31.200 a l'any.**      
 Un salari considerat **"alt"** per a un **Java Developer son 75.000 a l'any.**      
 
-Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java      
+Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java     
+
+## Conclusió
+---
+
+Podríem dir que Java es un dels llenguatges més populars en l'actualitat. Molta gent el califica com "antic", pero la realitat es que alhora de buscar treball, encara hi ha moltísimes ofertes de feina per en aquest llenguatge. Encara que Java tingui alguns problemes amb la memòria, les seves qüalitats fan que prosperi per molts anys més.
 
 ## Webgrafia  
 https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)    
@@ -191,3 +196,16 @@ Molta gent califica Python com un dels llenguatges més facils d'apendre, ja que
 
 Python és un d'aquests llenguatges de programació que es pot executar en qualsevol sistema operatiu en què s'operi. Així és: no importa si es tracta de Windows, Linux, macOS, i d'altres
 
+### Desavantatges
+
+**1. No tot és perfecte.**
+
+El fet que sigui un llenguatge versàtil, no vol dir que sigui eficient en tots els camps en què es pot executar. En el cas del desenvolupament d'aplicacions mòbils, Python no és la millor opció, ja que hi ha altres llenguatges més especialitzats i que ofereixen millors resultats.
+
+**2. Processament lent**
+
+Degut a la seva gran versatilitat, Python pot arribar a processar de forma lenta, ja que no té definit un ús específic i compilat
+
+**3.Hosting**
+
+En general, no tots els serveis de hosting estan preparats per suportar allò que es crea amb Python.
