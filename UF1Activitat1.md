@@ -228,3 +228,17 @@ Degut a la seva gran versatilitat, Python pot arribar a processar de forma lenta
 
 En general, no tots els serveis de hosting estan preparats per suportar allò que es crea amb Python.
 
+ ## Exemple de codi.
+ Com podem veure el codi es molt mes sencill que en l'exemple anterior de Java, ja que només es 1 línea de codi. 
+ 
+   ``` print("Hola mòn!") '''
+    
+  **Output:**
+  *Hola mòn!*
+  
+  
+  Demanar el nom a l'usuari i mostrar-lo en Python
+  ---
+ nom = input("Com et dius?: ")
+  print("Hello", name + "!")
+```
