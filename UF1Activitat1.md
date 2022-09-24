@@ -243,6 +243,7 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
   ---
   ```
  nom = input("Com et dius?: ")
-  print("Hello", name + "!")
-  
+  print("Hola", name + "!")
   ```
+   **Input:** Eric   
+  **Output:** *Hola, Eric*
