@@ -285,8 +285,3 @@ La sintaxi bàsica deriva de C/C++ i utilitza el model d'objectes de la platafor
   <img src="https://user-images.githubusercontent.com/113585897/192094639-b756bc3b-1774-4f3d-b778-602648b148c6.png") />
 </p>
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113585897/191532394-1909c176-e531-40e0-b725-966b71d31d2c.png" />
-</p>
-
