@@ -145,15 +145,15 @@ El codi que segueixi els principis de **Python** es diu que és “pytònic”. 
 ---
 
 
-Programació Orientada a objectes (POO):
+### Programació Orientada a objectes (POO):
 
 Com altres llenguatges populars com Java, C++ o Javascript, Python és un llenguatge orientat a objectes. Un llenguatge orientat a objectes és aquell en què el codi s'organitza en unitats anomenades classes i objectes. Això permet representar conceptes quotidians en un programa
 
 
-Llenguatge interpretat:
+### Llenguatge interpretat:
 
 Hi ha dos tipus de llenguatges: compilats o interpretats com en el cas de Python. No cal compilar (transformar el llenguatge dels programes informàtics a un d'equivalent) quan es treballa amb Python, ja que els intèrprets que s'utilitzen amb aquest llenguatge s'encarreguen d'executar aquests programes mitjançant scripts propis.
 
-Àmpliament recolzat:
+### Àmpliament recolzat:
 
 Les seves característiques i les seves funcionalitats fan que aquest llenguatge sigui molt interessant. Per això, Python ha generat una comunitat d'usuaris molt gran al seu voltant que pot ser útil quan volem trobar informació o demanar ajuda per desenvolupar qualsevol tipus de programa o algorisme.
