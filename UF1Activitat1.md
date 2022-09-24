@@ -231,7 +231,8 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
  ## Exemple de codi.
  Com podem veure el codi es molt mes sencill que en l'exemple anterior de Java, ja que només es 1 línea de codi. 
  
-   ``` print("Hola mòn!") 
+   ``` 
+   print("Hola mòn!") 
    ```
     
   **Output:**
