@@ -163,7 +163,7 @@ Les seves característiques i les seves funcionalitats fan que aquest llenguatge
 Un dels IDE mes comuns per a Python sol ser **PyCharm**, o també **PyDev**. Python es el llenguatge més versatil del mercat. Per això, funciona en pràcticament casi tots els àmbits.
 
 Python serveix per a fer:
-###
+
 1. Aprenentatge automàtic (Machine Learning)
 2. Intel·ligència Artificial (IA)
 3. Big data i Anàlisi de dades
@@ -173,4 +173,4 @@ Python serveix per a fer:
 7. Desenvolupament web
 8. Desenvolupament de videojocs
 9. Gestió financera
-###
+
