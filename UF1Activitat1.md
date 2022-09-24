@@ -289,3 +289,12 @@ La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plat
   <img src="https://user-images.githubusercontent.com/113585897/192094639-b756bc3b-1774-4f3d-b778-602648b148c6.png") />
 </p>
 
+
+## Característiques de C#.
+---
+**Orientació a components. **
+
+A més de ser orientat a **objectes**, és orientat a **components**. Un component és, en poques paraules, un element d'un sistema que ofereix un servei predefinit, i és capaç de comunicar-se amb altres components
+
+L'objectiu de la programació **orientada a components (POC)** és construir un **mercat global** de components programari, on els usuaris són els desenvolupadors de les aplicacions que necessiten reutilitzar components ja fets i testejats per construir les **seves aplicacions** de manera més **ràpida i robusta**.
+
