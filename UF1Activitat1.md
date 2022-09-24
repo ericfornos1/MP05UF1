@@ -263,3 +263,12 @@ Informació extreta de Glassdoor --> https://www.glassdoor.es/Sueldos/python-dev
 ---
 
 Python es el llenguatge de programació mes popular d'aquest any, i segurament ho sigui per els propers anys. Python es pot utiltizar en tots els camps de la programació, encara que hi ha diversos casos en els que no es la millor opció, com he dit abans en l'exemple de les aplicacions mòbils. El camp en el que més destaca es IA **(Inteligencia Artificial)** i el **Machine Learning**. El fet de que sigui un dels llenguatges més fàcils d'apendre el fa molt atractiu per a que gent nova començi a programar desde 0. 
+
+## Webgrafia  
+
+https://es.wikipedia.org/wiki/Python
+https://www.glassdoor.es/Sueldos/python-developer-sueldo-SRCH_KO0,16.htm
+https://www.infojobs.net      
+https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes   
+https://en.wikipedia.org/wiki/Object_(computer_science)   
+
