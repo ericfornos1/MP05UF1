@@ -20,6 +20,7 @@ provat)
 • Buscar com estan les ofertes de treball a Infojobs del llenguatge.               
 • WebGrafia               
 
+
 # Java
 ## Què és Java?
 ---
@@ -47,6 +48,8 @@ Java serveix per a fer:
   2. Aplicacions móbils per Android
   3. Aplicacions de escritori
   4. Aplicacions web
+ 
+ 
  
 ## Avantatges i desavantatges.
 ---
@@ -84,8 +87,10 @@ Java serveix per a fer:
             System.out.println("Hola mòn!");
         }
     }
+    
   **Output:**
   *Hola mòn!*
+  
   
   Demanar el nom a l'usuari i mostrar-lo en Java
   ---
@@ -104,8 +109,11 @@ Java serveix per a fer:
 
           }
       }
+      
   **Input:** Eric   
   **Output:** *Hola, Eric*
+  
+  
 ## Infojobs i Java.
 
 Hi han **818 ofertas de Java en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **392** per a **C#**.       
@@ -115,12 +123,15 @@ Un salari considerat **"alt"** per a un **Java Developer son 75.000 a l'any.**
 
 Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java     
 
+
 ## Conclusió
 ---
 
 Podríem dir que Java es un dels llenguatges més populars en l'actualitat. Molta gent el califica com "antic", pero la realitat es que alhora de buscar treball, encara hi ha moltísimes ofertes de feina per en aquest llenguatge. Encara que Java tingui alguns problemes amb la memòria, les seves qüalitats fan que prosperi per molts anys més.
 
+
 ## Webgrafia  
+
 https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)    
 https://www.jobted.es/salario/programador-java    
 https://www.infojobs.net    
@@ -128,7 +139,9 @@ https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes
 https://en.wikipedia.org/wiki/Object_(computer_science)   
 
 # Python
+
 ## Què és Python?
+
 
 Python es el **llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE** és un llenguatge **d'alt nivell** de programació **interpretat**.  
 Va ser disenyat l'any 1991, per **Guido van Rossum**, en **Python Software Foundation**.
@@ -163,8 +176,10 @@ Hi ha dos tipus de llenguatges: compilats o interpretats com en el cas de Python
 
 Les seves característiques i les seves funcionalitats fan que aquest llenguatge sigui molt interessant. Per això, Python ha generat una comunitat d'usuaris molt gran al seu voltant que pot ser útil quan volem trobar informació o demanar ajuda per desenvolupar qualsevol tipus de programa o algorisme.
 
+
 ## Utilització de Python.
 ---
+
 Un dels IDE més utilitzats per a Python sol ser **PyCharm**, o també **PyDev**. Python es el llenguatge més versatil del mercat. Per això, funciona en pràcticament casi **tots els àmbits**.
 
 Python serveix per a fer:
@@ -179,8 +194,10 @@ Python serveix per a fer:
 8. Desenvolupament de **videojocs**
 9. Gestió financera
 
+
 ## Avantatges i desavantatges.
 ---
+
 ### Avantatge
 
 **1. Biblioteques i Frameworks**
@@ -206,6 +223,7 @@ El fet que sigui un llenguatge versàtil, no vol dir que sigui eficient en tots 
 
 Degut a la seva gran versatilitat, Python pot arribar a processar de forma lenta, ja que no té definit un ús específic i compilat
 
-**3.Hosting**
+**3. Hosting**
 
 En general, no tots els serveis de hosting estan preparats per suportar allò que es crea amb Python.
+
