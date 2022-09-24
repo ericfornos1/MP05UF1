@@ -157,3 +157,18 @@ Hi ha dos tipus de llenguatges: compilats o interpretats com en el cas de Python
 ### Àmpliament recolzat:
 
 Les seves característiques i les seves funcionalitats fan que aquest llenguatge sigui molt interessant. Per això, Python ha generat una comunitat d'usuaris molt gran al seu voltant que pot ser útil quan volem trobar informació o demanar ajuda per desenvolupar qualsevol tipus de programa o algorisme.
+
+## Utilització de Python.
+---
+Un dels IDE mes comuns per a Python sol ser **PyCharm**, o també **PyDev**. Python es el llenguatge més versatil del mercat. Per això, funciona en pràcticament casi tots els àmbits.
+
+Python serveix per a fer:
+1. Aprenentatge automàtic (Machine Learning)
+2. Intel·ligència Artificial (IA)
+3. Big data i Anàlisi de dades
+4. Operacions matemàtiques
+5. Visualització de dades
+6. Programació d'apps
+7. Desenvolupament web
+8. Desenvolupament de videojocs
+9. Gestió financera
