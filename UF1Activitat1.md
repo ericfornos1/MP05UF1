@@ -39,6 +39,7 @@ Una altra característica que fa a Java un llenguatge de programació molt respe
 
 Java compila el codi fodi per a generar el codi **"bytecode"**, del que hem parlat abans. Aquest llenguatge **"bytecode"** son instruccions de màquina simplificades. Aquest codi no es codi font, però tampoc es codi màquina, es un llenguatge que només Java el pot entendre, després, la **màquina virtual (JVM)** s'encarrega de interpretar i executar el codi.
 
+
 ## Utilització de Java.
 ---
 Un dels IDE mes comuns per a Java sol ser **Eclipse**, o també **IntelIJ IDEA**, i es poden fer una gran varietat de projectes amb Java, degut a la seva gran versatibilitat. 
