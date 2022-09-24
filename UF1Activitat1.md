@@ -292,7 +292,8 @@ La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plat
 
 ## Característiques de C#.
 ---
-**Orientació a components. **
+
+**Orientació a components.**
 
 A més de ser orientat a **objectes**, és orientat a **components**. Un component és, en poques paraules, un element d'un sistema que ofereix un servei predefinit, i és capaç de comunicar-se amb altres components
 
