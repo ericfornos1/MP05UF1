@@ -160,7 +160,7 @@ Les seves característiques i les seves funcionalitats fan que aquest llenguatge
 
 ## Utilització de Python.
 ---
-Un dels IDE mes comuns per a Python sol ser **PyCharm**, o també **PyDev**. Python es el llenguatge més versatil del mercat. Per això, funciona en pràcticament casi tots els àmbits.
+Un dels IDE més utilitzats per a Python sol ser **PyCharm**, o també **PyDev**. Python es el llenguatge més versatil del mercat. Per això, funciona en pràcticament casi tots els àmbits.
 
 Python serveix per a fer:
 
