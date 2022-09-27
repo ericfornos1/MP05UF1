@@ -345,7 +345,6 @@ C# serveix per a fer:
    
 ## Exemple de codi.
 
-### Hola Mon.
 ```
 namespace HolaMon
 {
@@ -359,3 +358,20 @@ namespace HolaMon
 ```
 
 **Output:** *Hola Mon*
+
+ Demanar el nom a l'usuari i mostrar-lo en C#
+  ---
+  
+  ```
+ using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    string name = Console.ReadLine();
+    Console.WriteLine("Hello {0}", name); 
+   }
+} 
+```
+  
+ 
+  
