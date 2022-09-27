@@ -322,15 +322,23 @@ C# serveix per a fer:
 
 **2. Documentació**     
 
-  Microsoft ofereix una àmplia documentació per a C# i .NET, que inclou tutorials interactius, sèries de vídeos i explicacions de problemes.    
+  Microsoft ofereix una àmplia documentació per a **C# i .NET**, que inclou tutorials interactius, sèries de vídeos i explicacions de problemes.    
  
  **3. Llenguatge per evitar errors**    
 
-  C# és segur de tipus, cosa que significa que una variable no pot canviar el seu tipus en tot el codi. Per exemple, si heu declarat una variable GoodDay com a enter, només podeu assignar-li valors numèrics exactes i els valors de cadena com dissabte o diumenge són inacceptables.    
+  C# és segur de tipus, cosa que significa que una variable **no pot canviar el seu tipus en tot el codi**. Per exemple, si heu declarat una variable GoodDay com a **enter**, només podeu assignar-li valors numèrics exactes i els valors de cadena com dissabte o diumenge són **inacceptables**.    
   
   
 ### Desavantatges
 
   **1.El rendiment de C# no és el millor**    
 
-  El rendiment d'un llenguatge es pot mesurar en termes de temps de compilació i el rendiment real de l'aplicació. En comparació amb el seu llenguatge més proper, Java, C# té un temps de compilació similar.
+  El rendiment d'un llenguatge es pot mesurar en termes de temps de compilació i el rendiment real de l'aplicació. En comparació amb el seu llenguatge més proper, **Java**, C# té un **temps de compilació similar**.
+  
+  **2. Dependència de la plataforma .NET**
+  
+  Com he dit abans, **C# depèn en gran mesura dels recursos .NET** per executar-se en diferents sistemes operatius o plataformes. Tanmateix, per si sol **no és tan flexible**, si no esteu considerant .NET com la vostra pila de **tecnologia principal**.
+  
+   **3. Corba d'aprenentatge dura**
+   
+   Tot i que C# no és el llenguatge més fàcil d'aprendre per si sol, l'ús de biblioteques .NET afegeix una altra capa de complexitat. Les biblioteques a .NET s'actualitzen sovint i hi ha milers de recursos que necessites per aprendre
