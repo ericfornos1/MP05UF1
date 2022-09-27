@@ -367,11 +367,14 @@ namespace HolaMon
 
 class MainClass {
   public static void Main (string[] args) {
-    string name = Console.ReadLine();
-    Console.WriteLine("Hello {0}", name); 
+    string nom = Console.ReadLine();
+    Console.WriteLine("Hola {0}", name); 
    }
 } 
 ```
+  **Input:** Eric   
+  **Output:** *Hola, Eric*
+
   
  
   
