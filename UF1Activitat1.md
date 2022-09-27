@@ -427,3 +427,8 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 
 ## Característiques de SQL.
 ---
+
+**Llenguatge de definició de dades:** L'SQL proporciona ordres per a la definició d'esquemes de relació, esborrament de relacions i modificacions dels esquemes de relació. 
+**Control de transaccions:** SQL té ordres per especificar el començament i el final d'una transacció.
+SQL incorporat i dinàmic: Això vol dir que es poden incorporar instruccions de SQL en llenguatges de programació com ara C++, C, Java, PHP, COBOL, Pascal i Fortran.
+Autorització: El LDD inclou ordres per especificar els drets d'accés a les relacions ia les vistes.
