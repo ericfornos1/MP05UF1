@@ -315,13 +315,13 @@ C# serveix per a fer:
 
 ### Avantatge
 
-  **1. Programació orientada a objectes**
-    Des del principi, C# es va basar en els principis de programació orientada a objectes (OOP). Aquest concepte permet definir el tipus i l'estructura de les dades, per aplicar-hi el conjunt de funcions estàndard
+  **1. Programació orientada a objectes**   
+    Des del principi, C# es va basar en els principis de programació orientada a objectes (OOP). Aquest concepte permet definir el tipus i l'estructura de les dades, per aplicar-hi el conjunt de funcions estàndard   
 
 
-**2. Documentació** 
-  Microsoft ofereix una àmplia documentació per a C# i .NET, que inclou tutorials interactius, sèries de vídeos i explicacions de problemes.
+**2. Documentació**     
+  Microsoft ofereix una àmplia documentació per a C# i .NET, que inclou tutorials interactius, sèries de vídeos i explicacions de problemes.    
  
- **3. Llenguatge per evitar errors**
+ **3. Llenguatge per evitar errors**    
 
-  C# és segur de tipus, cosa que significa que una variable no pot canviar el seu tipus en tot el codi. Per exemple, si heu declarat una variable GoodDay com a enter, només podeu assignar-li valors numèrics exactes i els valors de cadena com dissabte o diumenge són inacceptables.
+  C# és segur de tipus, cosa que significa que una variable no pot canviar el seu tipus en tot el codi. Per exemple, si heu declarat una variable GoodDay com a enter, només podeu assignar-li valors numèrics exactes i els valors de cadena com dissabte o diumenge són inacceptables.    
