@@ -388,7 +388,7 @@ Informació extreta de "GlassDoor" --> https://www.glassdoor.es/Sueldos/programa
 ## Conclusió:
 ---
 
-**C# ocupa el lloc número 5** en la llista **TIOBE**. Moltes persones consideren a C# com un llenguatge que només serveix per fer videojocs. Però la realitat es que també s'utilitza per fer aplicacions de mòbil i d'escritori. C# gira en voltant de .NET i les seves propietats, això fa que no sigui un llenguatge tan flexible si el comparem amb els demés.
+**C# ocupa el lloc número 5** en la llista **TIOBE**. Moltes persones consideren a **C#** com un llenguatge que només serveix per fer **videojocs**. Però la realitat es que també s'utilitza per fer aplicacions de **mòbil** i d'escritori. C# gira en voltant de **.NET** i les seves propietats, això fa que no sigui un llenguatge tan **flexible** si el comparem amb els demés.
 
 
 ## Webgrafia  
@@ -399,4 +399,6 @@ https://www.infojobs.net
 https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes     
 https://en.wikipedia.org/wiki/Object_(computer_science)     
   
-  
+# Java
+## Què és SQL?
+---
