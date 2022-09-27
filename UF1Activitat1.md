@@ -407,7 +407,12 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 
 **SQL** es el número **31** en la llista **TIOBE** pero no es just comparar un **llenguatge de base de dades** amb un **llenguatge de programació** com els anteriors **3 exemples**.
 
-La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic** per a Aplicacions (VBA).* WHERE First_Name = 'Maria';* **Nota:** SQL no es fa servir només per manipular dades, sinó també per **crear i modificar el disseny d'objectes** de base de dades, com ara **taules**.  
+La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic** per a Aplicacions (VBA).  
+
+**Exemple**
+*WHERE First_Name = 'Maria';*   
+
+**Nota:** SQL no es fa servir només per manipular dades, sinó també per **crear i modificar el disseny d'objectes** de base de dades, com ara **taules**.  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113585897/192598882-59ad3736-4dab-46f5-b7d4-38888f90a6e0.png") />
