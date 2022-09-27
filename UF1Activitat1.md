@@ -399,6 +399,6 @@ https://www.infojobs.net
 https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes     
 https://en.wikipedia.org/wiki/Object_(computer_science)     
   
-# Java
+# SQL
 ## Què és SQL?
 ---
