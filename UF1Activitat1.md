@@ -422,3 +422,8 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 
 ## Utilització de SQL.
 ---
+**SQL** és un llenguatges de programació que els desenvolupadors utilitzen per **definir i accedir** a les bases de dades, que són col·leccions de dades organitzades als quals els usuaris hi poden accedir electrònicament. Aquests llenguatges permeten als usuaris realitzar tasques com **controlar l'accés a les dades**, **definir** i **actualitzar les dades** i **cercar informació** dins del sistema de gestió de bases de dades.
+
+
+## Característiques de SQL.
+---
