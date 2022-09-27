@@ -302,7 +302,7 @@ L'objectiu de la programació **orientada a components (POC)** és construir un 
 ## Utilització de C#.
 ---
 
-El **IDE** més utilitzat per **C#** es, sense cap mena de dubte, **Visual Studio (Microsoft Visual Studio)**. Això es deu a que C# es un llenguatge fet per **Microsoft**, per tant, han fet també un IDE que **s'adapta perfectament** als seus llenguatges de programació.
+El **IDE** més utilitzat per **C#** es, sense cap mena de dubte, **Visual Studio (Microsoft Visual Studio)**. Això es deu a que C# es un llenguatge fet per **Microsoft**, per tant, han fet també un IDE que **s'adapta perfectament** als seus llenguatges de programació. **C# ocupa el lloc número 5** en la llista **TIOBE**.
 
 C# serveix per a fer:
 
@@ -383,5 +383,20 @@ Un salari considerat **"mitjà"** per a un **C# Developer son 32.000 a l'any.**
 Un salari considerat **"alt"** per a un **C# Developer son +50.000 a l'any.**      
 
 Informació extreta de "GlassDoor" --> https://www.glassdoor.es/Sueldos/programador-c-sueldo-SRCH_KO0,13.htm
+
+
+## Conclusió:
+---
+
+**C# ocupa el lloc número 5** en la llista **TIOBE**. Moltes persones consideren a C# com un llenguatge que només serveix per fer videojocs. Però la realitat es que també s'utilitza per fer aplicacions de mòbil i d'escritori. C# gira en voltant de .NET i les seves propietats, això fa que no sigui un llenguatge tan flexible si el comparem amb els demés.
+
+
+## Webgrafia  
+---
  
+https://es.wikipedia.org/wiki/C_Sharp
+https://www.infojobs.net      
+https://ca.wikipedia.org/wiki/Programaci%C3%B3_orientada_a_objectes     
+https://en.wikipedia.org/wiki/Object_(computer_science)     
+  
   
