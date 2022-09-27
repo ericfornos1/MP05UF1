@@ -254,7 +254,7 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
 
 ## Infojobs i Python.
 
-Hi han **588 ofertas de Python en tota Espanya**. Comparat amb altres, hi ha **818** ofertes per a **Java**, **242** per a **C++**, i **392** per a **C#**.       
+Hi han **588 ofertas de Python en tota Espanya**. Comparat amb altres, hi ha **818** ofertes per a **Java**, **242** per a **C++**, i **392** per a **708#**.       
 Un salari considerat **"baix"** per a un **Python Developer son 21.000 a l'any.**     
 Un salari considerat **"mitjà"** per a un **Python Developer son 32.200 a l'any.**      
 Un salari considerat **"alt"** per a un **Python Developer son +49.000 a l'any.**      
@@ -375,13 +375,13 @@ class MainClass {
   **Input:** Eric   
   **Output:** *Hola, Eric*
 
-## Infojobs i Java.
+## Infojobs i C#.
 
-Hi han **818 ofertas de Java en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **392** per a **C#**.       
-Un salari considerat **"baix"** per a un **Java Developer son 19.900 a l'any.**     
-Un salari considerat **"mitjà"** per a un **Java Developer son 31.200 a l'any.**      
-Un salari considerat **"alt"** per a un **Java Developer son +45.000 a l'any.**      
+Hi han **708 ofertas de C# en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **818** per a **Java**.       
+Un salari considerat **"baix"** per a un **C# Developer son 23.000 a l'any.**     
+Un salari considerat **"mitjà"** per a un **C# Developer son 32.000 a l'any.**      
+Un salari considerat **"alt"** per a un **C# Developer son +50.000 a l'any.**      
 
-Informació extreta de "jobted" --> https://www.jobted.es/salario/programador-java    
+Informació extreta de "GlassDoor" --> https://www.glassdoor.es/Sueldos/programador-c-sueldo-SRCH_KO0,13.htm
  
   
