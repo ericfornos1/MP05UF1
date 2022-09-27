@@ -254,7 +254,7 @@ En general, no tots els serveis de hosting estan preparats per suportar allò qu
 
 ## Infojobs i Python.
 
-Hi han **588 ofertas de Python en tota Espanya**. Comparat amb altres, hi ha **818** ofertes per a **Java**, **242** per a **C++**, i **392** per a **708#**.       
+Hi han **588 ofertas de Python en tota Espanya**. Comparat amb altres, hi ha **818** ofertes per a **Java**, **242** per a **C++**, i **708** per a **C#**.       
 Un salari considerat **"baix"** per a un **Python Developer son 21.000 a l'any.**     
 Un salari considerat **"mitjà"** per a un **Python Developer son 32.200 a l'any.**      
 Un salari considerat **"alt"** per a un **Python Developer son +49.000 a l'any.**      
