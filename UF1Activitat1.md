@@ -299,3 +299,29 @@ A més de ser orientat a **objectes**, és orientat a **components**. Un compone
 
 L'objectiu de la programació **orientada a components (POC)** és construir un **mercat global** de components programari, on els usuaris són els desenvolupadors de les aplicacions que necessiten reutilitzar components ja fets i testejats per construir les **seves aplicacions** de manera més **ràpida i robusta**.
 
+## Utilització de C#.
+---
+
+El **IDE** més utilitzat per **C#** es, sense cap mena de dubte, **Visual Studio (Microsoft Visual Studio)**. Això es deu a que C# es un llenguatge fet per **Microsoft**, per tant, han fet també un IDE que **s'adapta perfectament** als seus llenguatges de programació.
+
+C# serveix per a fer:
+
+1. Aplicacions de **mòbil**
+2. **Videojocs**
+3. Aplicacions **d'escritori**
+
+## Avantatges i desavantatges.
+---
+
+### Avantatge
+
+  **1. Programació orientada a objectes**
+    Des del principi, C# es va basar en els principis de programació orientada a objectes (OOP). Aquest concepte permet definir el tipus i l'estructura de les dades, per aplicar-hi el conjunt de funcions estàndard
+
+
+**2. Documentació** 
+  Microsoft ofereix una àmplia documentació per a C# i .NET, que inclou tutorials interactius, sèries de vídeos i explicacions de problemes.
+ 
+ **3. Llenguatge per evitar errors**
+
+  C# és segur de tipus, cosa que significa que una variable no pot canviar el seu tipus en tot el codi. Per exemple, si heu declarat una variable GoodDay com a enter, només podeu assignar-li valors numèrics exactes i els valors de cadena com dissabte o diumenge són inacceptables.
