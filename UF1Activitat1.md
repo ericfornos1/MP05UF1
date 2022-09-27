@@ -406,8 +406,9 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 **Structured Query Language**; en català **(llenguatge de consulta estructurada**) és un llenguatge fet per administrar, i recuperar informació de sistemes de **gestió de bases de dades relacionals**. Va ser creat l'any **1974** per 	**Donald D. Chamberlin** i **Raymond F. Boyce**, dins de l'empresa **IBM**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/113585897/192598449-8e639b3f-17b9-44cf-8f69-1703417b3591.png") />
+  <img src="https://user-images.githubusercontent.com/113585897/192598882-59ad3736-4dab-46f5-b7d4-38888f90a6e0.png") />
 </p>
+
 
 
 ## Utilització de SQL.
