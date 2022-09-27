@@ -317,7 +317,7 @@ C# serveix per a fer:
 
   **1. Programació orientada a objectes**   
   
-    Des del principi, C# es va basar en els principis de programació orientada a objectes (OOP). Aquest concepte permet definir el tipus i l'estructura de les dades, per aplicar-hi el conjunt de funcions estàndard   
+  Des del principi, C# es va basar en els principis de programació orientada a objectes (OOP). Aquest concepte permet definir el tipus i l'estructura de les dades, per aplicar-hi el conjunt de funcions estàndard   
 
 
 **2. Documentació**     
