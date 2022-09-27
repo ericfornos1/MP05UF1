@@ -402,3 +402,13 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 # SQL
 ## Què és SQL?
 ---
+
+**Structured Query Language**; en català **(llenguatge de consulta estructurada**) és un llenguatge fet per administrar, i recuperar informació de sistemes de **gestió de bases de dades relacionals**. Va ser creat l'any **1974** per 	**Donald D. Chamberlin** i **Raymond F. Boyce**, dins de l'empresa **IBM**.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113585897/192598449-8e639b3f-17b9-44cf-8f69-1703417b3591.png") />
+</p>
+
+
+## Utilització de SQL.
+---
