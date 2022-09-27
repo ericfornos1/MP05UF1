@@ -344,7 +344,7 @@ C# serveix per a fer:
    Tot i que C# no és el llenguatge més fàcil d'aprendre per si sol, l'ús de biblioteques .NET afegeix una altra capa de complexitat. Les biblioteques a .NET s'actualitzen sovint i hi ha milers de recursos que necessites per aprendre
    
 ## Exemple de codi.
-'''
+```
 namespace HelloWorld
 {
     class Hello {         
@@ -354,4 +354,4 @@ namespace HelloWorld
         }
     }
 }
-'''
+```
