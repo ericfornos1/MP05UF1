@@ -342,3 +342,15 @@ C# serveix per a fer:
    **3. Corba d'aprenentatge dura**
    
    Tot i que C# no és el llenguatge més fàcil d'aprendre per si sol, l'ús de biblioteques .NET afegeix una altra capa de complexitat. Les biblioteques a .NET s'actualitzen sovint i hi ha milers de recursos que necessites per aprendre
+   
+## Exemple de codi.
+
+namespace HelloWorld
+
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
