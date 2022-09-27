@@ -409,7 +409,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 
 La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic** per a Aplicacions (VBA).  
 
-**Exemple**
+**Exemple:**
 *WHERE First_Name = 'Maria';*   
 
 **Nota:** SQL no es fa servir només per manipular dades, sinó també per **crear i modificar el disseny d'objectes** de base de dades, com ara **taules**.  
