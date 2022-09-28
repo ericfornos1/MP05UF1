@@ -12,18 +12,6 @@ D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 
 
 # Java
-•Avantatges i inconvenients respecte altres llenguatges.               
-•Principals entorns on es fa servir el llenguatge.                        
-
-• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
-provat)
-• Hola mòn (Molt fàcil de trobar)            **   
-• Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)               
-• Buscar com estan les ofertes de treball a Infojobs del llenguatge.               
-• WebGrafia               
-
-
-# Java
 ## Què és Java?
 ---
 Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C i C++. 
