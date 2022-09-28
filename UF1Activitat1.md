@@ -307,6 +307,9 @@ Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest lleng
   <img src="https://user-images.githubusercontent.com/113585897/192718067-0a9e0e3c-d9c8-4852-a769-607d1cd40573.png") />
 </p>
 
+**Multifil**.   
+
+En **C#** es possible dividir el codi en múltiples fils d'execució, treballar en paral·lel i sincronitzar-los al final.
 
 ## Utilització de C#.
 ---
