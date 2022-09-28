@@ -454,3 +454,7 @@ Hi han **1300 ofertes relacionades amb la paraula "SQL" en tota Espanya**. Compa
 
 Un salari considerat **"mitjà"** per a un **SQL Developer son entre 25.000 i 30.000 a l'any.**      
 
+## Conclusió:
+---
+
+**SQL** és un dels llenguatges de programació més famosos per controlar bases de dades, gestionarles i administrar-les. 
