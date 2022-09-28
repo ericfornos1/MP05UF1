@@ -14,7 +14,7 @@ D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 # Java
 ## Què és Java?
 ---
-Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation). La seva sinatxis es deriva en una gran part de C i C++. 
+Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i **creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation)**. La seva sinatxis es deriva en una gran part de C i C++. 
 
 Les aplicacions fetes en Java son compilades a **bytecode**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
 <p align="center">
@@ -27,7 +27,7 @@ La característica més important de Java es el **"OOP"** es a dir, (Programaci�
 
 Una altra característica que fa a Java un llenguatge de programació molt respetable es el seu lema, **"write once, run anywhere"**, amb el significat de que Java es capaç de escriure un programa una vegada i que es pugui executarse desde qualsevol dispositiu, independement del hardware.
 
-Java compila el codi fodi per a generar el codi **"bytecode"**, del que hem parlat abans. Aquest llenguatge **"bytecode"** son instruccions de màquina simplificades. Aquest codi no es codi font, però tampoc es codi màquina, es un llenguatge que només Java el pot entendre, després, la **màquina virtual (JVM)** s'encarrega de interpretar i executar el codi.
+Java compila el codi font per a generar el codi **"bytecode"**, del que hem parlat abans. Aquest llenguatge **"bytecode"** son instruccions de màquina simplificades. Aquest codi no es codi font, però tampoc es codi màquina, es un llenguatge que només Java el pot entendre, després, la **màquina virtual (JVM)** s'encarrega de interpretar i executar el codi.
 
 
 ## Utilització de Java.
@@ -50,7 +50,7 @@ Java serveix per a fer:
         Java funciona independentment del tipo de **plataforma**, es a dir, es pot executar en **Windows, Linux, Mac**, inclús en el **telèfon mobil**!     
         
 **2. Fàcil d'apendre.**                
-       La curva d'aprenentatge de Java es **curta**, i la sintaxis es fàcil d'apendre, ademés, es pareix a C i C++.     
+       La curva d'aprenentatge de Java es **curta**, i la sintaxis es fàcil d'apendre, ademés, es pareix a C i C++ en alguns aspectes.     
        
 **3. Programació orientada a objectes**.                 
        Els conceptes **"OOP"** de Java ajuden a resoldre problemes del món real. També ajuda a mantenir el codi gran dividint-los en fragments amb nom més petits. 
@@ -60,7 +60,7 @@ Java serveix per a fer:
 ### Desavantatges
 
 **1. Baix rendiment**                 
-      Java consumeix més lent en comparació amb els llenguatges de programació natius com **C i C++**, això es deu al treball adicional de l'**intèrpret** per convertir el codi en llenguatge **màquina**.      
+      Java es més lent en comparació amb els llenguatges de programació natius com **C i C++**, això es deu al treball adicional per convertir el codi en llenguatge **màquina**.      
       
 **2. Memoria**              
       L'administració de **memòria** de Java no es molt bona comparada amb altres llenguatges de programació com per exemple **C++**.    
@@ -139,7 +139,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 Python es el **llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE** és un llenguatge **d'alt nivell** de programació **interpretat**.  
 Va ser disenyat l'any 1991, per **Guido van Rossum**, en **Python Software Foundation**.
 
-La filosofia de Python fa èmfasi en la **llegibilitat del seu codi**, d'aqui tota la seva popularitat en els darrers anys. S'utilitza per desenvolupar aplicacions de tot tipus. 
+Python s'epecialitza en la **llegibilitat del seu codi**, d'aqui tota la seva popularitat en els darrers anys. S'utilitza per desenvolupar aplicacions de tot tipus. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113585897/191532394-1909c176-e531-40e0-b725-966b71d31d2c.png" />
@@ -158,16 +158,16 @@ El codi que segueixi els principis de **Python** es diu que és “pytònic”. 
 
 ### Programació Orientada a objectes (POO):
 
-Com altres llenguatges populars com Java, C++ o Javascript, Python és un llenguatge orientat a objectes. Un llenguatge orientat a objectes és aquell en què el codi s'organitza en unitats anomenades classes i objectes. Això permet representar conceptes quotidians en un programa
+Com altres llenguatges populars com Java, C++ o Javascript, Python és un llenguatge **orientat a objectes**. Un llenguatge orientat a objectes és aquell en què el codi s'organitza en unitats anomenades classes i objectes. Això permet representar **conceptes quotidians** en un programa.
 
 
 ### Llenguatge interpretat:
 
-Hi ha dos tipus de llenguatges: compilats o interpretats com en el cas de Python. No cal compilar (transformar el llenguatge dels programes informàtics a un d'equivalent) quan es treballa amb Python, ja que els intèrprets que s'utilitzen amb aquest llenguatge s'encarreguen d'executar aquests programes mitjançant scripts propis.
+Hi ha dos tipus de llenguatges: **compilats o interpretats** com en el cas de **Python**. No cal compilar (transformar el llenguatge dels programes informàtics a un d'equivalent) quan es treballa amb Python, ja que els **intèrprets** que s'utilitzen amb aquest llenguatge s'**encarreguen d'executar aquests programes mitjançant scripts propis**.
 
 ### Àmpliament recolzat:
 
-Les seves característiques i les seves funcionalitats fan que aquest llenguatge sigui molt interessant. Per això, Python ha generat una comunitat d'usuaris molt gran al seu voltant que pot ser útil quan volem trobar informació o demanar ajuda per desenvolupar qualsevol tipus de programa o algorisme.
+Les seves característiques i les seves funcionalitats fan que aquest llenguatge sigui molt interessant. Per això, **Python ha generat una comunitat d'usuaris molt gran** al seu voltant que pot ser útil quan volem trobar informació o demanar ajuda per desenvolupar qualsevol tipus de programa o algorisme.
 
 
 ## Utilització de Python.
@@ -195,30 +195,30 @@ Python serveix per a fer:
 
 **1. Biblioteques i Frameworks**
 
-Com ja he comentat abans, Python, en ser de codi lliure i gratuït, permet que una gran comunitat darrere pugui contribuir al desenvolupament de codi i frameworks que ajuden altres programadors a crear projectes
+Com ja he comentat abans, Python, en ser de codi lliure i gratuït, permet que una gran comunitat darrere pugui **contribuir al desenvolupament de codi i frameworks** que ajuden altres programadors a crear projectes
 
 
 **2. Llenguatge senzill i de gran potencial**
 
-Molta gent califica Python com un dels llenguatges més facils d'apendre, ja que aquest llenguatge substitueix els famosos **"corxets" { }** per identació amb tabulaciuons. D'aquesta manera Python es un llenguatge molt més llegible per algù que no esta familiaritzat del tot amb la programació.
+Molta gent califica **Python** com un dels llenguatges més **facils d'apendre**, ja que aquest llenguatge substitueix els famosos **"corxets" { }** per identació amb tabulaciuons. D'aquesta manera Python es un llenguatge molt més **llegible** per algù que no esta familiaritzat del tot amb la programació.
 
 **3. Multiplataforma**
 
-Python és un d'aquests llenguatges de programació que es pot executar en qualsevol sistema operatiu en què s'operi. Així és: no importa si es tracta de Windows, Linux, macOS, i d'altres
+**Python** és un d'aquests llenguatges de programació que es pot executar en qualsevol sistema operatiu en què s'operi. Així és: no importa si es tracta de Windows, Linux, macOS, i d'altres
 
 ### Desavantatges
 
 **1. No tot és perfecte.**
 
-El fet que sigui un llenguatge versàtil, no vol dir que sigui eficient en tots els camps en què es pot executar. En el cas del desenvolupament d'aplicacions mòbils, Python no és la millor opció, ja que hi ha altres llenguatges més especialitzats i que ofereixen millors resultats.
+El fet que sigui un llenguatge versàtil, no vol dir que sigui eficient en tots els camps en què es pot executar. En el cas del desenvolupament d'aplicacions mòbils, **Python no és la millor opció**, ja que hi ha altres llenguatges més especialitzats i que ofereixen millors resultats.
 
 **2. Processament lent**
 
-Degut a la seva gran versatilitat, Python pot arribar a processar de forma lenta, ja que no té definit un ús específic i compilat
+Degut a la seva gran versatilitat, Python pot arribar a processar avegades de forma lenta, ja que no té definit un ús específic i compilat
 
 **3. Hosting**
 
-En general, no tots els serveis de hosting estan preparats per suportar allò que es crea amb Python.
+En general, no tots els serveis de hosting estan preparats per suportar els programes de Python.
 
  ## Exemple de codi.
  Com podem veure el codi es molt mes sencill que en l'exemple anterior de Java, ja que només es 1 línea de codi. 
@@ -255,7 +255,7 @@ Informació extreta de Glassdoor --> https://www.glassdoor.es/Sueldos/python-dev
 ---
 
 **Python** es el llenguatge de programació **mes popular d'aquest any**, i segurament ho sigui per els propers anys.   
-Python es pot utiltizar en **tots els camps** de la programació, encara que hi ha diversos casos en els que **no es la millor opció**, com he dit abans en l'exemple de les aplicacions mòbils. El camp en el que més destaca es IA **(Inteligencia Artificial)** i el **Machine Learning**. El fet de que sigui un dels llenguatges més **fàcils** d'apendre el fa molt atractiu per a que gent nova començi a programar desde 0. 
+Python es pot utiltizar en **tots els camps** de la programació, encara que hi ha diversos casos en els que **no es la millor opció**, com he dit abans en l'exemple de les aplicacions mòbils. El camp en el que més destaca es IA **(Inteligencia Artificial)** i el **Machine Learning**. El fet de que sigui un dels llenguatges més **fàcils** d'apendre el fa molt atractiu per a que gent nova començi a programar **desde 0**.  
 
 ## Webgrafia  
 ---
@@ -271,7 +271,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 ## Què és C#?
 ---
 
-**C#** és un llenguatge de programació **multiparadigma** desenvolupat i estandarditzat per l'empresa **Microsoft l'any 2000** com a part de la seva plataforma **.NET**. La idea principal de **C#** la va tindre **Anders Hejlsberg**, que, juntament amb el seu equip, van desenvolupar aquest llenguatge de programció.
+**C#** és un llenguatge de programació **compilat*, desenvolupat i estandarditzat per l'empresa **Microsoft l'any 2000** com a part de la seva plataforma **.NET**. La idea principal de **C#** la va tindre **Anders Hejlsberg**, que, juntament amb el seu equip, van desenvolupar aquest llenguatge de programció.
 
 La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plataforma **.NET**, similar al de **Java**, encara que inclou millores derivades d'altres llenguatges.
 
