@@ -1,6 +1,6 @@
 # Treball d'entorns
 **Java, Python, C#, SQL**
-
+**
 Activitat de recerca de llenguatges de programació      
 
 D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:               
@@ -15,7 +15,7 @@ D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 
 • Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
 provat)
-• Hola mòn (Molt fàcil de trobar)               
+• Hola mòn (Molt fàcil de trobar)            **   
 • Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)               
 • Buscar com estan les ofertes de treball a Infojobs del llenguatge.               
 • WebGrafia               
@@ -440,17 +440,18 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 ## Exemple de codi.
 
 **SELECT:** La instrucció SELECT s'utilitza per seleccionar diferents dades que conté una base de dades, A continuació mostrem un exemple:  
-
+```
 SELECT Nombre, Apellidos, ... 
 DE Datos_Clients;   
-
+```
 **SELECT DISTINCT:** Per seleccionar els diferents valors d'una taula per afegir la instrucció: 
-
+```
 SELECT DISTINCT Nombre, Apellidos, ...  
 DE Datos_Clients; 
-
+```
 **WHERE:** La instrucció WHERE és utilitzada per establir condicions i filtres a la query.  
-
+```
 SELECT columna1, ...  
 FROM nom_taula  
 WHERE condició; 
+```
