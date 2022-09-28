@@ -480,4 +480,4 @@ Un salari considerat **"mitjà"** per a un **SQL Developer son entre 25.000 i 30
 ## Conclusió:
 ---
 
-**SQL** és un dels llenguatges de programació més famosos per controlar bases de dades, gestionarles i administrar-les. 
+**SQL** és un dels llenguatges de programació més famosos per controlar bases de dades, gestionarles i administrar-les. Aquest llenguatge s'utilitza desde fa casi **50 anys**; encara que sigui un llenguatge de programació especialitzat només en base de dades ha conseguit accedir al **rànquing 9** en la llista Tiobe, competint amb altres llenguatges compilats i interpretats.
