@@ -455,3 +455,12 @@ SELECT columna1, ...
 FROM nom_taula  
 WHERE condició; 
 ```
+
+## Infojobs i SQL#.
+
+Hi han **1300 ofertes relacionades amb la paraula "SQL" en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **818** per a **Java**.  
+
+És difícil de calcular el salari d'un programador SQL, ja que aquests **fan diverses tasques i compaginen els coneixements de SQL amb altres llenguatges de programació**.  
+
+Un salari considerat **"mitjà"** per a un **SQL Developer son entre 25.000 i 30.000 a l'any.**      
+
