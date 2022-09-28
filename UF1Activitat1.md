@@ -298,7 +298,8 @@ Qualsevol llenguatge que es compile amb .NET, com la nova versió de visual basi
 
 **Unity i C#.**
 
-**Unity** es una de les plataformes més famoses en tot el mòn si parlem sobre la **creació de videojocs**, i perquè el menciono aqui? Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest llenguatge** si utilitzes **Unity**.  
+**Unity** es una de les plataformes més famoses en tot el mòn si parlem sobre la **creació de videojocs**, i perquè el menciono aqui?   
+Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest llenguatge** si utilitzes **Unity**.  
 
 
 
