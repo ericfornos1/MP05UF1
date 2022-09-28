@@ -10,6 +10,40 @@ D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 • Compilat, interpretat, híbrid...               
 • Principals novetats o aportacions respecte altres llenguatges.               
 
+8
+• Característiques del llenguatge.               
+9
+• Imperatiu, declaratiu, OOP...               
+10
+• Compilat, interpretat, híbrid...               
+11
+• Principals novetats o aportacions respecte altres llenguatges.               
+12
+​
+13
+•Avantatges i inconvenients respecte altres llenguatges.               
+14
+•Principals entorns on es fa servir el llenguatge.                        
+15
+​
+16
+• Exemple de codi (valoraré especialment si mostreu que ho heu implementat i
+17
+provat)
+18
+• Hola mòn (Molt fàcil de trobar)            **   
+19
+• Demanar el nom a l'usuari i mostrar-lo (haureu de buscar una mica més)               
+20
+• Buscar com estan les ofertes de treball a Infojobs del llenguatge.               
+21
+• WebGrafia               
+22
+​
+23
+​
+24
+# Java
 •Avantatges i inconvenients respecte altres llenguatges.               
 •Principals entorns on es fa servir el llenguatge.                        
 
@@ -388,7 +422,7 @@ Informació extreta de "GlassDoor" --> https://www.glassdoor.es/Sueldos/programa
 ## Conclusió:
 ---
 
-**C# ocupa el lloc número 5** en la llista **TIOBE**. Moltes persones consideren a **C#** com un llenguatge que només serveix per fer **videojocs**. Però la realitat es que també s'utilitza per fer aplicacions de **mòbil** i d'escritori. C# gira en voltant de **.NET** i les seves propietats, això fa que no sigui un llenguatge tan **flexible** si el comparem amb els demés.
+**C# ocupa el lloc número 5** en la llista **TIOBE**. Moltes persones consideren a **C#** com un llenguatge que només serveix per fer **videojocs**. Però la realitat es que també s'utilitza per fer aplicacions de **mòbil** i d'escritori. **C#** gira en voltant de **.NET** i les seves propietats, això fa que **no** sigui un llenguatge tan **flexible** si el comparem amb els demés.
 
 
 ## Webgrafia  
