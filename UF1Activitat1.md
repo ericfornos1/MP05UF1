@@ -14,7 +14,7 @@ D'aquests llenguatges heu de comentar obligatòriament els següents aspectes:
 # Java
 ## Què és Java?
 ---
-Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i **creada l'any 1996 per "James Gosling" de Sun Microsystems (Oracle Corporation)**. La seva sinatxis es deriva en una gran part de C i C++. 
+Java es el **tercer llenguatge de programació més popular del mòn** segons la famosa llista **TIOBE**, va ser disenyada i **creada l'any 1996 per "James Gosling" de Sun Microsystems (Corporation)**. La seva sinatxis es deriva en una gran part de C i C++. 
 
 Les aplicacions fetes en Java son compilades a **bytecode**, que pot ser executada en qualsevol JVM (màquina virtual de Java).
 <p align="center">
@@ -415,11 +415,11 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 ## Què és SQL?
 ---
 
-**Structured Query Language**; en català **(llenguatge de consulta estructurada**) és un llenguatge fet per administrar, i recuperar informació de sistemes de **gestió de bases de dades relacionals**. Va ser creat l'any **1974** per 	**Donald D. Chamberlin** i **Raymond F. Boyce**, dins de l'empresa **IBM**.   
+Les sigles de SQL venen de l'angles, **Structured Query Language**; en català **(llenguatge de consulta estructurada**) és un llenguatge fet per administrar, i recuperar informació de sistemes de **gestió de bases de dades relacionals**. Va ser creat l'any **1974** per 	**Donald D. Chamberlin** i **Raymond F. Boyce**, dins de l'empresa **IBM**.   
 
-**SQL** es el número **9** en la llista **TIOBE**, per la seva contrapart, **PL/SQL**, el llenguatge utilitzat per Oracle, ocupa el lloc número **31**. 
+**SQL** es el número **9** en la llista **TIOBE**, per la seva contrapart, **PL/SQL**, ocupa el lloc número **31**. 
 
-La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic** per a Aplicacions (VBA).  
+La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic**.  
 
 **Exemple:**
 *WHERE First_Name = 'Maria';*   
@@ -436,6 +436,7 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 ---
 **SQL** és un llenguatges de programació que els desenvolupadors utilitzen per **definir i accedir** a les bases de dades, que són col·leccions de dades organitzades als quals els usuaris hi poden accedir electrònicament. Aquests llenguatges permeten als usuaris realitzar tasques com **controlar l'accés a les dades**, **definir** i **actualitzar les dades** i **cercar informació** dins del sistema de gestió de bases de dades.
 
+**SQL** s'utilitza en MySQL, MariaDB, SQLite, PostgreSQL, Microsoft SQL Server i Oracle
 
 ## Característiques de SQL.
 ---
