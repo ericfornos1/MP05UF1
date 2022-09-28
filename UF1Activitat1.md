@@ -291,11 +291,13 @@ L'objectiu de la programació **orientada a components (POC)** és construir un 
 
 Qualsevol llenguatge que es compile amb .NET, com la nova versió de visual basic, pot aprofitar-se per fer servir en el teu projecte.
 
-**Unity i C#**
+**Unity i C#.**
 
 **Unity** es una de les plataformes més famoses en tot el mòn si parlem sobre la **creació de videojocs**, i perquè el menciono aqui? Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest llenguatge** si utilitzes **Unity**.  
 
-![Logo-Unity-300x109](https://user-images.githubusercontent.com/113585897/192718067-0a9e0e3c-d9c8-4852-a769-607d1cd40573.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113585897/192718067-0a9e0e3c-d9c8-4852-a769-607d1cd40573.png") />
+</p>
 
 ## Utilització de C#.
 ---
