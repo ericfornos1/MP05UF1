@@ -395,7 +395,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 
 **Structured Query Language**; en català **(llenguatge de consulta estructurada**) és un llenguatge fet per administrar, i recuperar informació de sistemes de **gestió de bases de dades relacionals**. Va ser creat l'any **1974** per 	**Donald D. Chamberlin** i **Raymond F. Boyce**, dins de l'empresa **IBM**.   
 
-**SQL** es el número **31** en la llista **TIOBE** pero no es just comparar un **llenguatge de base de dades** amb un **llenguatge de programació** com els anteriors **3 exemples**.
+**SQL** es el número **9** en la llista **TIOBE**, per la seva contrapart, **PL/SQL**, el llenguatge utilitzat per Oracle, ocupa el lloc número **31**. 
 
 La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic** per a Aplicacions (VBA).  
 
@@ -428,22 +428,23 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 **Flexibilitat**: Una de les raons per les que SQL és un llenguatge tan utilitzat per la seva flexibilitat, la seva versatilitat a l'hora d'implantar solucions i per permetre definir diferents formes de veure les dades.
 
 ## Exemple de codi.
+Com que és un llenguatge per a base de dades, fer un **"Hello World"** no siría molt pràctic, per tant, ensenyarem altre tipos d'exemples.
 
 **SELECT:** La instrucció SELECT s'utilitza per seleccionar diferents dades que conté una base de dades, A continuació mostrem un exemple:  
 ```
-SELECT Nombre, Apellidos, ... 
+SELECT Nom, Cognom, ... 
 DE Datos_Clients;   
 ```
 **SELECT DISTINCT:** Per seleccionar els diferents valors d'una taula per afegir la instrucció: 
 ```
-SELECT DISTINCT Nombre, Apellidos, ...  
+SELECT DISTINCT Nom, Cognom, ...  
 DE Datos_Clients; 
 ```
 **WHERE:** La instrucció WHERE és utilitzada per establir condicions i filtres a la query.  
 ```
 SELECT columna1, ...  
 FROM nom_taula  
-WHERE condició; 
+WHERE condicio; 
 ```
 
 ## Infojobs i SQL#.
