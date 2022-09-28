@@ -436,3 +436,21 @@ La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molt
 **Autorització**: El LDD inclou ordres per especificar els drets d'accés a les relacions ia les vistes.
 
 **Flexibilitat**: Una de les raons per les que SQL és un llenguatge tan utilitzat per la seva flexibilitat, la seva versatilitat a l'hora d'implantar solucions i per permetre definir diferents formes de veure les dades.
+
+## Exemple de codi.
+
+**SELECT:** La instrucció SELECT s'utilitza per seleccionar diferents dades que conté una base de dades, A continuació mostrem un exemple:  
+
+SELECT Nombre, Apellidos, ... 
+DE Datos_Clients;   
+
+**SELECT DISTINCT:** Per seleccionar els diferents valors d'una taula per afegir la instrucció: 
+
+SELECT DISTINCT Nombre, Apellidos, ...  
+DE Datos_Clients; 
+
+**WHERE:** La instrucció WHERE és utilitzada per establir condicions i filtres a la query.  
+
+SELECT columna1, ...  
+FROM nom_taula  
+WHERE condició; 
