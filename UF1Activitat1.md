@@ -271,7 +271,7 @@ https://en.wikipedia.org/wiki/Object_(computer_science)
 ## Què és C#?
 ---
 
-**C#** és un llenguatge de programació **compilat*, desenvolupat i estandarditzat per l'empresa **Microsoft l'any 2000** com a part de la seva plataforma **.NET**. La idea principal de **C#** la va tindre **Anders Hejlsberg**, que, juntament amb el seu equip, van desenvolupar aquest llenguatge de programció.
+**C#** és un llenguatge de programació **compilat**, desenvolupat i estandarditzat per l'empresa **Microsoft l'any 2000** com a part de la seva plataforma **.NET**. La idea principal de **C#** la va tindre **Anders Hejlsberg**, que, juntament amb el seu equip, van desenvolupar aquest llenguatge de programció.
 
 La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plataforma **.NET**, similar al de **Java**, encara que inclou millores derivades d'altres llenguatges.
 
