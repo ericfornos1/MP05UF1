@@ -285,9 +285,17 @@ La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plat
 
 **Orientació a components.**
 
-A més de ser orientat a **objectes**, és orientat a **components**. Un component és, en poques paraules, un element d'un sistema que ofereix un servei predefinit, i és capaç de comunicar-se amb altres components
-
 L'objectiu de la programació **orientada a components (POC)** és construir un **mercat global** de components programari, on els usuaris són els desenvolupadors de les aplicacions que necessiten reutilitzar components ja fets i testejats per construir les **seves aplicacions** de manera més **ràpida i robusta**.
+
+**Integració amb altres llenguatges.**  
+
+Qualsevol llenguatge que es compile amb .NET, com la nova versió de visual basic, pot aprofitar-se per fer servir en el teu projecte.
+
+**Unity i C#**
+
+**Unity** es una de les plataformes més famoses en tot el mòn si parlem sobre la **creació de videojocs**, i perquè el menciono aqui? Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest llenguatge** si utilitzes **Unity**.  
+
+![Logo-Unity-300x109](https://user-images.githubusercontent.com/113585897/192718067-0a9e0e3c-d9c8-4852-a769-607d1cd40573.png)
 
 ## Utilització de C#.
 ---
