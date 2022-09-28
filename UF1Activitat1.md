@@ -283,9 +283,11 @@ La sintaxi bàsica deriva de **C/C++** i utilitza el model d'objectes de la plat
 ## Característiques de C#.
 ---
 
+
 **Orientació a components.**
 
 L'objectiu de la programació **orientada a components (POC)** és construir un **mercat global** de components programari, on els usuaris són els desenvolupadors de les aplicacions que necessiten reutilitzar components ja fets i testejats per construir les **seves aplicacions** de manera més **ràpida i robusta**.
+
 
 
 **Integració amb altres llenguatges.**  
@@ -293,9 +295,11 @@ L'objectiu de la programació **orientada a components (POC)** és construir un 
 Qualsevol llenguatge que es compile amb .NET, com la nova versió de visual basic, pot aprofitar-se per fer servir en el teu projecte.
 
 
+
 **Unity i C#.**
 
 **Unity** es una de les plataformes més famoses en tot el mòn si parlem sobre la **creació de videojocs**, i perquè el menciono aqui? Doncs perquè Unity funciona amb **C#** i pots **programar jocs amb aquest llenguatge** si utilitzes **Unity**.  
+
 
 
 <p align="center">
