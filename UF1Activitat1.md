@@ -488,7 +488,7 @@ Un salari considerat **"mitjà"** per a un **SQL Developer son entre 25.000 i 30
 ## Webgrafia  
 ---
 
-https://www.infojobs.net  
-https://bigdata-analytics.es/sql/
-https://www.tiobe.com/tiobe-index/sql/
-https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos_relacionales
+https://www.infojobs.net    
+https://bigdata-analytics.es/sql/ 
+https://www.tiobe.com/tiobe-index/sql/  
+https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_bases_de_datos_relacionales  
