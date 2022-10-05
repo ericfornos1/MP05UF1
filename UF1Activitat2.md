@@ -13,7 +13,7 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 
 
 ---
-Per al llenguatge compilat: 
+**Per al llenguatge compilat: **
 
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament  
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font 
