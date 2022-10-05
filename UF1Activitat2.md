@@ -32,6 +32,7 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge.   
 
+---
 **Per al llenguatge interpretat:**
 
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
