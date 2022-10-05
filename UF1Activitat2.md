@@ -12,7 +12,7 @@ UF1Activitat2.md que confingui la següent informació:
 Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un de MV. 
 
 
-
+---
 Per al llenguatge compilat: 
 
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament  
