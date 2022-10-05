@@ -21,28 +21,21 @@ l’adjunteu dins el document.
 
 Abans de res, hem de instal·lar el següent paquet, per a poder utilitzar el comando "gcc", que es el que ens permetrà transformar un arxiu en extensió ".c" a executable mitjançant el comando ./(nom_de_l'arxiu) a Ubuntu. 
 
-<p align="center">
   ![image](https://user-images.githubusercontent.com/113585897/194006531-4a53f241-13ff-487b-a149-15e41f7b7168.png)      
-</p>
+
 
 
 El programa simplement genera un número aleatori de l’1 al 6 i, simula el llançament d’un dau de 6 cares  
 
-<p align="center">
   ![image](https://user-images.githubusercontent.com/113585897/194005594-2839c610-5947-4af5-83f7-fe6fd06b823e.png)  
-</p>
 
 La comanda gcc dado.c -o prova2.c serveix per transformar l'arxiu a executable. D'aquesta manera podrem utilitzar el ./(nom_de_l'arxiu) i executar-lo 
 
-<p align="center">
   ![image](https://user-images.githubusercontent.com/113585897/194005507-4c9f0de7-c0cf-4f1a-ba04-8194e4348bf4.png)  
-</p>
 
 Si l'executem mes d'una vegada, podem veure que dona resultats diferents. 
 
-<p align="center">
   ![image](https://user-images.githubusercontent.com/113585897/194005840-380ab257-262e-4f06-baa3-c4e928946617.png)  
-</p>
 
 ● Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la
 comanda per utilitzar-lo per passar de codi font a codi objecte.  
