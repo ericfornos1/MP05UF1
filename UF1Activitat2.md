@@ -32,3 +32,19 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge.   
 
+**Per al llenguatge interpretat:**
+
+● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament
+escriureu el programa en un fitxer de text que sigui el codi font, el codi font
+l’adjunteu dins el document.  
+
+● Identifiqueu l'intèrpret del llenguatge (l’executable). 
+
+● Descriviu com funciona l’intèrpret. 
+
+● Mostreu les extensions dels fitxers de codi font. 
+
+● Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.  
+
+● Busqueu 3 IDEs de desenvolupament pel llenguatge. 
+
