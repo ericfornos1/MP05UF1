@@ -26,6 +26,20 @@ Abans de res, hem de instal·lar el següent paquet, per a poder utilitzar el co
 
 
 El programa simplement genera un número aleatori de l’1 al 6 i, simula el llançament d’un dau de 6 cares  
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+
+{
+    int randomnumber;
+    srand(time(NULL));
+    randomnumber = rand() % 6;
+    printf("%d\n", randomnumber);
+    return 0;
+}
+```
 
   ![image](https://user-images.githubusercontent.com/113585897/194005594-2839c610-5947-4af5-83f7-fe6fd06b823e.png)  
 
