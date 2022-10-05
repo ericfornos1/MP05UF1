@@ -19,6 +19,7 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font 
 l’adjunteu dins el document.    
 
+Abans de res, hem de instal·lar el següent paquet, per a poder utilitzar el comando "gcc", que es el que ens permetrà transformar un arxiu en extensió ".c" a executable mitjançant el comando ./(nom_de_l'arxiu) a Ubuntu. 
 
 El programa simplement genera un número aleatori de l’1 al 6 i, simula el llançament d’un dau de 6 cares  
 
