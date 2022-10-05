@@ -57,6 +57,10 @@ comanda per utilitzar-lo per passar de codi font a codi objecte.
 
 ● Mostreu les extensions dels fitxers de codi font i codi objecte.  
 
+L'extensió predeterminada per **C** es **".c"** 
+
+![image](https://user-images.githubusercontent.com/113585897/194008617-101b499a-f6c0-437c-993e-3319c727e8ef.png)
+
 ● Descriviu com passar de codi objecte a executable.  
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles. 
@@ -93,10 +97,6 @@ per utilitzar-lo per passar de codi font a ByteCode.
 ● Descriviu com passar de codi font a ByteCode. 
 
 ● Mostreu les extensions dels fitxers de codi font i ByteCode.  
-
-El fitxer predeterminat **C** es **".c"** 
-
-![image](https://user-images.githubusercontent.com/113585897/194008617-101b499a-f6c0-437c-993e-3319c727e8ef.png)
 
 ● Descriviu com executar el programa. 
 
