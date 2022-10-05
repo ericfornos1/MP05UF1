@@ -51,6 +51,7 @@ l’adjunteu dins el document.
 
 ---
 **Per al llenguatge de MV:**  
+
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament  
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font 
 l’adjunteu dins el document.  
