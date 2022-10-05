@@ -17,7 +17,20 @@ Escolliu 3 llenguatges de programació, un de compilat, un d’interpretat i un 
 
 ● Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament  
 escriureu el programa en un fitxer de text que sigui el codi font, el codi font 
-l’adjunteu dins el document.  
+l’adjunteu dins el document.    
+
+
+El programa simplement genera un número aleatori de l’1 al 6 i, simula el llançament d’un dau de 6 cares  
+
+![image](https://user-images.githubusercontent.com/113585897/194005594-2839c610-5947-4af5-83f7-fe6fd06b823e.png)  
+
+
+![image](https://user-images.githubusercontent.com/113585897/194005507-4c9f0de7-c0cf-4f1a-ba04-8194e4348bf4.png)  
+
+Si l'executem mes d'una vegada, podem veure que dona resultats diferents. 
+
+![image](https://user-images.githubusercontent.com/113585897/194005840-380ab257-262e-4f06-baa3-c4e928946617.png)  
+
 
 ● Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la
 comanda per utilitzar-lo per passar de codi font a codi objecte.  
