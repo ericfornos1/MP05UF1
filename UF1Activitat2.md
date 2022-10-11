@@ -53,6 +53,9 @@ Si l'executem mes d'una vegada, podem veure que dona resultats diferents.
 ● Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la
 comanda per utilitzar-lo per passar de codi font a codi objecte.  
 
+El nom del compilador que utilitzem en aquest cas es "GCC" i serveix per C tant com per C++.  
+El comando que utilitzem es **gcc arxiu1.c -o arxiu2.c**  
+
 ● Descriviu com passar de codi font a codi objecte. 
 
 Mitjançant un procés que es diu "Compilació". Aquest procés s'encarrega de traduir un programa escrit en llenguatge font. 
