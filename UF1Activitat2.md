@@ -54,6 +54,7 @@ Si l'executem mes d'una vegada, podem veure que dona resultats diferents.
 comanda per utilitzar-lo per passar de codi font a codi objecte.  
 
 ● Descriviu com passar de codi font a codi objecte. 
+Mitjançant un procés que es diu "Compilació". Aquest procés s'encarrega de traduir un programa escrit en llenguatge font.
 
 ● Mostreu les extensions dels fitxers de codi font i codi objecte.  
 
@@ -62,13 +63,18 @@ L'extensió predeterminada per **C** es **".c"**
 ![image](https://user-images.githubusercontent.com/113585897/194008617-101b499a-f6c0-437c-993e-3319c727e8ef.png)
 
 ● Descriviu com passar de codi objecte a executable.  
+Mitjançant un procés que es diu "Enllaçador" o, "Linker" en anglès.
 
-● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles. 
+● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.   
+
+Avantatges: Es pot separar de l'entorn de desenvolupament, executar-se de manera independent en una plataforma específica i té una eficiència més gran. 
+
+Desavantatges: no es pot trasplantar; cal trasplantar, recopilació del codi font. 
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge.   
 Els IDEs més utilitzats en ordre per a C són: 
 
-1. Visual St udio Code  
+1. Visual Studio Code  
 2. Eclipse  
 3. NetBeans 
 ---
