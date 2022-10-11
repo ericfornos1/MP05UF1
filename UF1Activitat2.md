@@ -66,7 +66,11 @@ L'extensió predeterminada per **C** es **".c"**
 ● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles. 
 
 ● Busqueu 3 IDEs de desenvolupament pel llenguatge.   
+Els IDEs més utilitzats en ordre per a C són: 
 
+1. Visual St udio Code  
+2. Eclipse  
+3. NetBeans 
 ---
 **Per al llenguatge interpretat:**
 
