@@ -70,6 +70,7 @@ L'extensió predeterminada per **C** es **".c"**
 ● Descriviu com passar de codi objecte a executable.  
 
 Mitjançant un procés que es diu "Enllaçador" o, "Linker" en anglès. 
+El "Linker" es un programa que ajuda a enllaçar mòduls d'objectes d'un programa en un sol fitxer d'objectes.
 
 ● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.   
 
