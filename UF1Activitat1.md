@@ -375,21 +375,23 @@ namespace HolaMon
   ---
   
   ```
- using System;
-
-class MainClass {
-  public static void Main (string[] args) {
-    string nom = Console.ReadLine();
-    Console.WriteLine("Hola {0}", name); 
-   }
-} 
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		  string nom = Console.ReadLine();
+ 		 Console.WriteLine("Hola {0}", nom); 
+	}
+}
 ```
   **Input:** Eric   
   **Output:** *Hola, Eric*
 
 ## Infojobs i C#.
 
-Hi han **708 ofertas de C# en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **818** per a **Java**.       
+Hi ha **708 ofertas de C# en tota Espanya**. Comparat amb altres, hi ha **588** ofertes per a **Python**, **242** per a **C++**, i **818** per a **Java**.       
 Un salari considerat **"baix"** per a un **C# Developer son 23.000 a l'any.**     
 Un salari considerat **"mitjà"** per a un **C# Developer son 32.000 a l'any.**      
 Un salari considerat **"alt"** per a un **C# Developer son +50.000 a l'any.**      
@@ -422,7 +424,7 @@ Les sigles de SQL venen de l'angles, **Structured Query Language**; en català *
 La **sintaxi SQL** es basa en la sintaxi de **l'idioma anglès** i utilitza molts dels mateixos elements que la sintaxi del **Visual Basic**.  
 
 **Exemple:**
-*WHERE First_Name = 'Maria';*   
+*SELECT * FROM persones WHERE First_Name = 'Maria';*   
 
 **Nota:** SQL no es fa servir només per manipular dades, sinó també per **crear i modificar el disseny d'objectes** de base de dades, com ara **taules**.  
 
